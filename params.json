@@ -1,0 +1,6 @@
+{
+  "name": "Reg-to-csharp",
+  "tagline": "Provides an online converter from .reg files to C# code",
+  "body": "### Welcome to the GitHub Pages of the reg-to-csharp tool.\r\n\r\nThis tool makes it really easy for you to convert an convenient .reg file to ready to use C# code.\r\n\r\n## How it works\r\n\r\nThis tool works completely in your browser just using Javascript. So make sure you havn't disabled it!\r\n\r\n## About\r\n\r\nI wrote this tool, because I once had a need for converting a .reg file to C#, because if you do it by hand it's useless wastet time, which you could invest better. If you like this tool, feel free to leave a star on my Github project page!\r\n\r\nIf you would like a new feature or just want to inform me about an bug, feel free to create an issue for that on Github!",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
